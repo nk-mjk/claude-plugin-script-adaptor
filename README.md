@@ -1,3 +1,5 @@
+![같은 장면, 네 가지 언어](./script-adaptor_info.png)
+
 # 📜 script-adaptor
 
 > 소설 한 편을 **영화 시나리오 · 연극 대본 · 만화 대본**으로 자동 각색하는 Claude Cowork 플러그인

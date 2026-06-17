@@ -1,4 +1,4 @@
-![같은 장면, 네 가지 언어](./script-adaptor_info.png)
+![같은 장면, 네 가지 언어](./script-adaptor-info.png)
 
 # 📜 script-adaptor
 
